@@ -4,4 +4,5 @@ Controls:
  - A, D - change propeller angle
  - W, S - lift/lower plane
  - F - freeze/unfreeze animation
+
 Defines contained to change prop count and other aspects of the app
